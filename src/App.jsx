@@ -1,10 +1,10 @@
 import "./App.css";
-import Home from "./pages/home";
+import AccountOperation from "./Features/acount/acountOperation";
 
 function App() {
   return (
     <>
-      <Home />
+      <AccountOperation />
     </>
   );
 }
